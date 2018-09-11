@@ -1,0 +1,12 @@
+/Users/wilidga/Projects/TipCalculator/TipCalculator/bin/iPhoneSimulator/Debug/TipCalculator.exe
+/Users/wilidga/Projects/TipCalculator/TipCalculator/bin/iPhoneSimulator/Debug/TipCalculator.pdb
+/Users/wilidga/Projects/TipCalculator/TipCalculator/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.4/ibtool/_BundleResourceWithLogicalName.items
+/Users/wilidga/Projects/TipCalculator/TipCalculator/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.4/actool/_PartialAppManifest.items
+/Users/wilidga/Projects/TipCalculator/TipCalculator/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.4/actool/_BundleResourceWithLogicalName.items
+/Users/wilidga/Projects/TipCalculator/TipCalculator/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.4/coremlc/_PartialAppManifest.items
+/Users/wilidga/Projects/TipCalculator/TipCalculator/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.4/coremlc/_BundleResourceWithLogicalName.items
+/Users/wilidga/Projects/TipCalculator/TipCalculator/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.4/optimized/
+/Users/wilidga/Projects/TipCalculator/TipCalculator/obj/iPhoneSimulator/Debug/TipCalculator.csprojAssemblyReference.cache
+/Users/wilidga/Projects/TipCalculator/TipCalculator/obj/iPhoneSimulator/Debug/TipCalculator.csproj.CoreCompileInputs.cache
+/Users/wilidga/Projects/TipCalculator/TipCalculator/obj/iPhoneSimulator/Debug/TipCalculator.exe
+/Users/wilidga/Projects/TipCalculator/TipCalculator/obj/iPhoneSimulator/Debug/TipCalculator.pdb
